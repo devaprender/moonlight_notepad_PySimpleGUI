@@ -10,7 +10,7 @@ Redes Sociais:
 
 ---
 
-# Bem vindo! Instruções de como usar esses arquivos:
+# Instruções de como usar esses arquivos:
 
  - Se já usou o github antes já deve saber como fazer o download deste arquivo.
  - Se você nunca usou o GitHub(este site) antes, veja o que fazer abaixo
